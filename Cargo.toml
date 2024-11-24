@@ -1,0 +1,6 @@
+[package]
+name = "cc_uniq"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
